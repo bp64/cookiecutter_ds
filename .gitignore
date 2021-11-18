@@ -1,5 +1,7 @@
 docs/site/
 
+.venv
+
 # OSX Junk
 .DS_Store
 
